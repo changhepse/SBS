@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "title": "Site-Balance-Structured Learning of Catalytic Kinetics From Reactor Observations",
+  "repository_url": "https://github.com/changhepse/SBS",
+  "license": "MIT",
+  "third_party_attribution": "THIRD_PARTY_LICENSE.txt",
+  "data_sources": "README.md and source identifiers in data records"
+}
